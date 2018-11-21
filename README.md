@@ -16,7 +16,7 @@ In this homework I added some feartures to the original bc liquor store app.
 
 3. Show the number of results have found
 
-4. Render table using DT::renderDataTable()
+4. Render table using `DT::renderDataTable()`
 
 5. Add tabs to render table and graph separately 
 
