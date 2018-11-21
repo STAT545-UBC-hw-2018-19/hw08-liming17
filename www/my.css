@@ -1,0 +1,20 @@
+h1, h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #cc0000;
+}
+
+#resultNum {
+  font-size: 20px;
+  color: #cc0000;
+  margin-bottom: 7px;
+}
+
+label.control-label {
+	margin-top: 5px;
+	font-size: 25px;
+	color: #006999;
+}
